@@ -18,7 +18,6 @@
 - Python
 - Pandas / NumPy
 - Scikit-learn
-- XGBoost
 - Matplotlib / Seaborn
 
 ## 🧠 モデルと評価
@@ -27,7 +26,6 @@
 
 - 特徴量のエンジニアリング（時間帯、曜日、祝日など）
 - ログ変換によるスケール調整
-- XGBoostによる回帰モデルの構築
 - RMSLE（対数平均二乗誤差）を評価指標として使用
 
 ## 🏆 結果
