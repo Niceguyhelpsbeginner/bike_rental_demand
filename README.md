@@ -43,9 +43,9 @@
 
 ## ✍️ 作者
 
-- 김성진（Sungjin Kim）  
-- Kaggle: [あなたのKaggleプロフィールへのリンク]  
-- GitHub: [あなたのGitHubプロフィールへのリンク]
+- 김성진（seongjin kim）  
+- Kaggle: [[https://www.kaggle.com/](https://www.kaggle.com/jinrakim)]  
+- GitHub: [github.com/Niceguyhelpsbegginer]
 
 ## 📄 ライセンス
 
